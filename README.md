@@ -8,7 +8,10 @@
 
 
 
-<img align="right" alt="Girl Coding" width="350" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" />
+
+<img align="right" alt="Woman Coding" width="350" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" />
+
+
 
 
 
