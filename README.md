@@ -48,10 +48,10 @@ until things are perfect to put them out there.
 <div align="center">
 
 <a href="YOUR_REPO_LINK_HERE">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tejuh05&repo=YOUR_REPO_NAME&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tejuh05&repo=Book-app&theme=tokyonight&hide_border=true" />
 </a>
 <a href="YOUR_REPO_LINK_HERE">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tejuh05&repo=YOUR_REPO_NAME_2&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tejuh05&repo=Automated-Social-Media-Content-Generation-using-AI-n8n-&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
