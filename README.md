@@ -6,7 +6,10 @@
 
 ---
 
-<img align="right" alt="Girl Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+<img align="right" alt="Girl Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+
+
 
 ### 🧠 About Me
 
