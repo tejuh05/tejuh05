@@ -6,7 +6,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" />
+<img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" />
 
 ### 🧠 About Me
 
@@ -48,10 +48,11 @@ until things are perfect to put them out there.
 <div align="center">
 
 <a href="https://github.com/tejuh05/Book-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tejuh05&repo=Book-app&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tejuh05&repo=Book-app&theme=tokyonight&hide_border=true&show_owner=true" />
 </a>
+
 <a href="https://github.com/tejuh05/Automated-Social-Media-Content-Generation-using-AI-n8n-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tejuh05&repo=Automated-Social-Media-Content-Generation-using-AI-n8n-&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tejuh05&repo=Automated-Social-Media-Content-Generation-using-AI-n8n-&theme=tokyonight&hide_border=true&show_owner=true" />
 </a>
 
 </div>
@@ -77,8 +78,8 @@ until things are perfect to put them out there.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=tejuh05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejuh05&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165" />
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tejuh05&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tejuh05&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 </div>
 
