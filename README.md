@@ -6,7 +6,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
 ### 🧠 About Me
 
@@ -47,11 +47,11 @@ until things are perfect to put them out there.
 
 <div align="center">
 
-<a href="YOUR_REPO_LINK_HERE">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tejuh05&repo=Book-app&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/tejuh05/Book-app">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tejuh05&repo=Book-app&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </a>
-<a href="YOUR_REPO_LINK_HERE">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tejuh05&repo=Automated-Social-Media-Content-Generation-using-AI-n8n-&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/tejuh05/Automated-Social-Media-Content-Generation-using-AI-n8n-">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tejuh05&repo=Automated-Social-Media-Content-Generation-using-AI-n8n-&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </a>
 
 </div>
@@ -77,13 +77,13 @@ until things are perfect to put them out there.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=tejuh05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejuh05&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=tejuh05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejuh05&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165" />
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tejuh05&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=tejuh05&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
