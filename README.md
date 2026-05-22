@@ -6,7 +6,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" />
+<img align="right" alt="Girl Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ### 🧠 About Me
 
