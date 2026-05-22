@@ -45,32 +45,45 @@ until things are perfect to put them out there.
 
 ### 🚧 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/tejuh05/Book-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tejuh05&repo=Book-app&theme=tokyonight&hide_border=true&show_owner=true" />
-</a>
-
-<a href="https://github.com/tejuh05/Automated-Social-Media-Content-Generation-using-AI-n8n-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tejuh05&repo=Automated-Social-Media-Content-Generation-using-AI-n8n-&theme=tokyonight&hide_border=true&show_owner=true" />
-</a>
-
-</div>
-
-<br/>
-
-#### 🤖 AI Social Media Automation (n8n)
-> Automated LinkedIn content pipeline — from news article to published post, zero manual steps.
-
-- Pulls live news, generates post copy + images using AI, publishes to LinkedIn automatically
-- Built with **n8n** · **OpenAI API** · **LinkedIn API**
-- 💡 *What I learned: API chaining, prompt engineering, workflow automation logic*
-
-#### 📚 Online Book Store System
-> Full-stack e-commerce app with cart, inventory, and order management.
-
-- Built with **Node.js · Express · MongoDB · Vanilla JS**
-- 💡 *What I learned: REST API design, MongoDB CRUD, front-to-back data flow*
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 AI Social Media Automation</h3>
+      <p>Automated LinkedIn content pipeline — from news article to published post, zero manual steps.</p>
+      <p>
+        <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/LinkedIn_API-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+      </p>
+      <ul>
+        <li>Pulls live news, generates post copy + images using AI</li>
+        <li>Publishes to LinkedIn automatically — zero manual steps</li>
+        <li>💡 <em>Learned: API chaining, prompt engineering, workflow automation</em></li>
+      </ul>
+      <a href="https://github.com/tejuh05/Automated-Social-Media-Content-Generation-using-AI-n8n-">
+        <img src="https://img.shields.io/badge/View%20on%20GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📚 Online Book Store System</h3>
+      <p>Full-stack e-commerce app with cart, inventory, and order management.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      </p>
+      <ul>
+        <li>Full CRUD operations for books, users, and orders</li>
+        <li>REST API backend with vanilla JS frontend</li>
+        <li>💡 <em>Learned: REST API design, MongoDB CRUD, front-to-back data flow</em></li>
+      </ul>
+      <a href="https://github.com/tejuh05/Book-app">
+        <img src="https://img.shields.io/badge/View%20on%20GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
