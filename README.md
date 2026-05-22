@@ -7,7 +7,9 @@
 ---
 
 
-<img align="right" alt="Girl Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+
+<img align="right" alt="Girl Coding" width="350" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" />
+
 
 
 
