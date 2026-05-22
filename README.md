@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey,%20I'm%20Tejashree%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=CS%20Student%20·%20MERN%20Stack%20·%20AI%20Automation&descAlignY=55&descSize=18" />
@@ -7,7 +6,7 @@
 
 ---
 
-<img align="right" alt="Girl Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" />
 
 ### 🧠 About Me
 
@@ -65,7 +64,6 @@ until things are perfect to put them out there.
         <img src="https://img.shields.io/badge/View%20on%20GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
-
     <td width="50%" valign="top">
       <h3>📚 Online Book Store System</h3>
       <p>Full-stack e-commerce app with cart, inventory, and order management.</p>
@@ -137,4 +135,3 @@ until things are perfect to put them out there.
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 </div>
-```
